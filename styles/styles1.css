@@ -1,0 +1,16 @@
+.paper {
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  background-image: url("..\\images\\paper.jpg");
+
+/* paragraph formatting */
+}
+p {
+  font-size: 10pt;
+}
+
+/* mouse over link */
+a:hover {
+  color: papayawhip;
+}
