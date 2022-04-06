@@ -1,0 +1,12 @@
+
+.tbox {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  background-image: url(paper.jpg);
+}
+p {
+  font-size: 10pt;
+}
